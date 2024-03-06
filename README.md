@@ -2,6 +2,8 @@
 
 **EnumJS** is a small, lightweight library that adds an `Enum` class with basic functionality to JavaScript.
 
+<br/><br/>
+
 ## Importing EnumJS
 
 ### HTML
@@ -13,6 +15,8 @@
 ```js
 import Enum from "https://raw.githubusercontent.com/paulkanja/enumjs/main/es6/Enum.mjs";
 ```
+
+<br/><br/>
 
 ## Using EnumJS
 
