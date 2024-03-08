@@ -16,6 +16,11 @@
 import Enum from "https://cdn.jsdelivr.net/gh/paulkanja/enumsjs@main/es6/Enum.mjs";
 ```
 
+### Node.js
+```js
+const Enum = require("node-enumsjs");
+```
+
 <br/><br/>
 
 ## Using EnumsJS
