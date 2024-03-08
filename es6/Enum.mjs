@@ -1,6 +1,6 @@
 /**
  * ES6 Enum module
- * @module https://cdn.jsdelivr.net/gh/paulkanja/enumjs@main/es6/Enum.mjs
+ * @module https://cdn.jsdelivr.net/gh/paulkanja/enumsjs@main/es6/Enum.mjs
 **/
 
 /**
