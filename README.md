@@ -8,12 +8,12 @@
 
 ### HTML
 ```html
-<script src="https://raw.githubusercontent.com/paulkanja/enumjs/main/es6/Enum.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/paulkanja/enumjs@main/es6/Enum.js"></script>
 ```
 
 ### ES6 Module
 ```js
-import Enum from "https://raw.githubusercontent.com/paulkanja/enumjs/main/es6/Enum.mjs";
+import Enum from "https://cdn.jsdelivr.net/gh/paulkanja/enumjs@main/es6/Enum.mjs";
 ```
 
 <br/><br/>
