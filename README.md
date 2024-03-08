@@ -55,8 +55,9 @@ e.values; // [Symbol("A"), Symbol("B"), Symbol("C")]
 // get a Set of keys
 e.keySet(); // Set("A", "B", "C")
 
-// check if a key exists
+// check if a key or value exists
 e.has("A"); // true
+e.has(e.A); // true
 e.has("D"); // false
 ```
 
