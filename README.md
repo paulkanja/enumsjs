@@ -1,24 +1,24 @@
-# EnumJS
+# EnumsJS
 
-**EnumJS** is a small, lightweight library that adds an `Enum` class with basic functionality to JavaScript.
+**EnumsJS** is a small, lightweight library that adds an `Enum` class with basic functionality to JavaScript.
 
 <br/><br/>
 
-## Importing EnumJS
+## Importing EnumsJS
 
 ### HTML
 ```html
-<script src="https://cdn.jsdelivr.net/gh/paulkanja/enumjs@main/es6/Enum.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/paulkanja/enumsjs@main/es6/Enum.js"></script>
 ```
 
 ### ES6 Module
 ```js
-import Enum from "https://cdn.jsdelivr.net/gh/paulkanja/enumjs@main/es6/Enum.mjs";
+import Enum from "https://cdn.jsdelivr.net/gh/paulkanja/enumsjs@main/es6/Enum.mjs";
 ```
 
 <br/><br/>
 
-## Using EnumJS
+## Using EnumsJS
 
 ### Creating a new Enum
 ```js
