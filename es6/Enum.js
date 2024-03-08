@@ -119,11 +119,12 @@ class Enum
 	/**
 	 * Checks if a given key exists in the Enum
 	 * @public
-	 * @param {string} key
+	 * @param {Symbol|string} val
 	 * @return {boolean}
 	**/
-	has (key)
+	has (val)
 	{
-		return !!this.#enum[key];
+		if (typeof val == "string") return !!this.#enum[val];
+		return this.#values.includes(val);
 	}
 }
