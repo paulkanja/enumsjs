@@ -17,7 +17,7 @@ import Enum from "https://cdn.jsdelivr.net/gh/paulkanja/enumsjs@main/es6/Enum.mj
 ```
 
 ### Node.js
-Install the module using `npm` on a CLI terminal:
+Install the module using [`npm`](https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager#packages) on a CLI terminal:
 ```console
 npm install node-enumsjs
 ```
