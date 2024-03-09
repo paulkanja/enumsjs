@@ -82,3 +82,7 @@ for (const key of e)
     const value = e[key];
 }
 ```
+
+<br/><br/>
+
+[License](./LICENSE)
